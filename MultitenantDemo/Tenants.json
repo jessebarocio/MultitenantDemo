@@ -1,0 +1,12 @@
+﻿[
+	{
+		"TenantName": "ABC Corp",
+		"Hostname": "abc.tenants.shadesofazure.com",
+		"FavoriteColor": "blue"
+	},
+	{
+		"TenantName": "XYZ Inc",
+		"Hostname": "xyz.tenants.shadesofazure.com",
+		"FavoriteColor": "red"
+	}
+]
